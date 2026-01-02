@@ -4,10 +4,10 @@ Hackercard for Campfire DFW!
 
 ## Images
 
-<img width="590" height="746" alt="image" src="https://github.com/user-attachments/assets/6fe931e1-3648-400b-9c76-8e5e0fa2f0b7" />
-<img width="620" height="758" alt="image" src="https://github.com/user-attachments/assets/0a583b42-4e28-423b-ad3d-904a286963be" />
-<img width="670" height="776" alt="image" src="https://github.com/user-attachments/assets/3d210541-38e3-4465-8c41-a689d19e4300" />
-<img width="517" height="727" alt="image" src="https://github.com/user-attachments/assets/2f2107fe-fe86-4ee8-9f1e-f59b07eafbaf" />
+<img width="609" height="787" alt="Screenshot 2026-01-02 123710" src="https://github.com/user-attachments/assets/5ab06f94-2cbf-4d62-8edb-ebd4826eae8f" />
+<img width="664" height="785" alt="Screenshot 2026-01-02 123700" src="https://github.com/user-attachments/assets/3f808ebc-b484-47eb-aba5-8b55aad743b8" />
+<img width="637" height="750" alt="Screenshot 2026-01-02 123652" src="https://github.com/user-attachments/assets/aefadeff-ad74-4efa-8810-6d0232b20d78" />
+<img width="609" height="754" alt="Screenshot 2026-01-02 123645" src="https://github.com/user-attachments/assets/b868b90c-1914-4ec6-a0b1-818a62e25f12" />
 
 ## Bill of Materials (BOM)
 
